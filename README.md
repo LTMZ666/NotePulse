@@ -8,14 +8,12 @@
 
 - **用户端**：[http://www.fanqieltmz.dpdns.org/](http://www.fanqieltmz.dpdns.org/)
 - **管理端**：[http://www.fanqieltmz.dpdns.org/admin/](http://www.fanqieltmz.dpdns.org/admin/)
-- **API 文档**：[http://www.fanqieltmz.dpdns.org/api/docs](http://www.fanqieltmz.dpdns.org/api/docs)
 
 ### 演示账号
 
 | 角色 | 账号 | 密码 |
 |------|------|------|
 | 普通用户 | 墨涵 | demo123456 |
-| 管理员 | admin | zbdxwf5201314 |
 
 > 演示数据包含 6 个用户、12 篇笔记、12 篇帖子、20 条评论
 
