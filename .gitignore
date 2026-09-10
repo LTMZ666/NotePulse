@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+NotePulse_backend/venv/
+NotePulse_backend/.venv/
+
+# IDE
+.idea/
+.vscode/
+.trae/
+*.swp
+*.swo
+
+# 环境变量与密钥
+.env
+.env.local
+*.env
+
+# 数据库
+*.db
+*.sqlite3
+
+# 日志
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 上传文件
+uploads/
+NotePulse_backend/uploads/
+
+# 临时文件
+*.tmp
+*.bak
+*.bundle

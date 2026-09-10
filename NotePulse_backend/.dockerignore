@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.idea/
+.vscode/
+.trae/
+
+# 环境变量与密钥
+.env
+.env.local
+*.env
+
+# 数据库与日志
+*.db
+*.sqlite3
+*.log
+
+# 文档
+*.md
+README.md
